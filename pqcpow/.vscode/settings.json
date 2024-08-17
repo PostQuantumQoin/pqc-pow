@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "maxmul.cu": "c",
-        "random": "cpp",
-        "iostream": "cpp",
-        "bitset": "cpp"
-    }
-}
